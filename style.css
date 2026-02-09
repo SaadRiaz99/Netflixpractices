@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+body{
+   background-image: 
+        linear-gradient(rgba(15, 13, 13, 0.3), rgba(51, 50, 50, 0.3)), 
+        url('https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    align-self: center;
+    justify-content: center;
+}
