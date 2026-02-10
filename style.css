@@ -14,3 +14,32 @@ body{
     align-self: center;
     justify-content: center;
 }
+#main-text{
+    font-weight: bolder;
+    font-size: 55px;
+    color: white;
+}
+.txt{
+    /* display: flex; */
+    margin-top: 230px;
+}
+#footer-text{
+    font-size: 25px;
+    color: white;
+    font-weight: bolder;
+}
+#input{
+    background-color: black;
+    border: 1px solid none;
+    color: white;
+}
+#input:hover{
+    background-color: black;
+    color: wheat;
+    background-color: opacity(0.5);
+}
+#main-button{
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+}
