@@ -85,3 +85,16 @@ background: linear-gradient(151deg,rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rg
     background-color: black;
 
 }
+
+.accordion-button {
+      background-color: #141414;
+      color: #fff;
+    }
+.accordion-button:not(.collapsed) {
+      background-color: #333;
+      color: #fff;
+    }
+.accordion-body {
+      background-color: #1c1c1c;
+      color: #ddd;
+    }
