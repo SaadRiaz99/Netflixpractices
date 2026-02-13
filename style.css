@@ -52,9 +52,7 @@ body{
     margin-top: 18%;
     background-color: black;
 }
-/* .sec-page{
-   
-} */
+
 
 .sec-page {
   padding: 50px 0;
@@ -82,3 +80,8 @@ background: linear-gradient(151deg,rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rg
     color: white;
 }
 
+.third-page{
+     /* margin-top: 5%; */
+    background-color: black;
+
+}
